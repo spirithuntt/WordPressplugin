@@ -1,0 +1,16 @@
+/* ---------Customizer--------- */
+.control-section-modern-furniture-store h3.accordion-section-title {
+	background: linear-gradient(90deg, rgba(241,113,105,1) 33%, rgba(242,96,151,1) 60%) !important;
+	color: #fff !important;
+    padding: 20px 10px;
+}
+a.button.button-secondary.alignright {
+    color: #fff;
+    box-shadow: none;
+    font-weight: bold;
+    padding: 0 10px;
+    background: transparent;
+    height: 31px;
+    background: #0f1321;
+    border: none;
+}
